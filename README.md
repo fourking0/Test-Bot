@@ -1,2 +1,2 @@
-# Test-Bot
+# Discord Bot
 Hosting on heruku!
